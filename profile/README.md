@@ -1,8 +1,6 @@
 # :zap: Unified Tech Power
 This organization is a combined effort of different project maintainers to provide a common framework for plugins from the "mod-like" genre.
 
----
-
 ## :busts_in_silhouette: Who are we?
 This team consists of developers from the following projects, in alphabetical order.
 
