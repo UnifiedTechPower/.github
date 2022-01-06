@@ -6,5 +6,5 @@ This team consists of developers from the following projects, in alphabetical or
 
 | Craftory | Nova | Slimefun | Space |
 | :------: | :--: | :------: | :---: |
-| ![craftory](./assets/craftory.png) | ![nova](./assets/nova.png) | ![slimefun](./assets/slimefun.png) | ![space](./assets/space.png) |
+| ![craftory](https://raw.githubusercontent.com/UnifiedTechPower/.github/main/profile/assets/craftory.png) | ![nova](https://raw.githubusercontent.com/UnifiedTechPower/.github/main/profile/assets/nova.png) | ![slimefun](https://raw.githubusercontent.com/UnifiedTechPower/.github/main/profile/assets/slimefun.png) | ![space](https://raw.githubusercontent.com/UnifiedTechPower/.github/main/profile/assets/space.png) |
 | [@CraftoryStudios](https://github.com/CraftoryStudios) | [@xenondevs](https://github.com/xenondevs) | [@Slimefun](https://github.com/Slimefun) | [@Z4OLLIEZ4/Space](https://github.com/Z4OLLIEZ4/Space) |
