@@ -1,0 +1,10 @@
+# :zap: Unified Tech Power
+This organization is a combined effort of different project maintainers to provide a common framework for plugins from the "mod-like" genre.
+
+## :busts_in_silhouette: Who are we?
+This team consists of developers from the following projects, in alphabetical order.
+
+| Craftory | Nova | Slimefun | Space |
+| :------: | :--: | :------: | :---: |
+| ![craftory](./assets/craftory.png) | ![nova](./assets/nova.png) | ![slimefun](./assets/slimefun.png) | ![space](./assets/space.png) |
+| [@CraftoryStudios](https://github.com/CraftoryStudios) | [@xenondevs](https://github.com/xenondevs) | [@Slimefun](https://github.com/Slimefun) | [@Z4OLLIEZ4/Space](https://github.com/Z4OLLIEZ4/Space) |
